@@ -71,4 +71,10 @@ public class Booking {
 		}
 		return false;
 	}
+	
+	@Override
+	public String toString() {
+		return "Booking [id=" + id + ", roomId=" + roomId + ", userId=" + userId + ", date=" + date + ", description="
+				+ description + "]";
+	}
 }
