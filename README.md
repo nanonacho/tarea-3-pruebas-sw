@@ -23,7 +23,7 @@ El programa cuenta con 6 clases de prueba descritas a continuación:
 El proceso de desarrollo del programa se realizó usando TDD.
 
 ## Supuestos
-- La reserva de la sala es por todo un día, es decir, no puede existir más de una reserva de sala por día.
+- La reserva de una sala es por todo un día, es decir, una misma sala no puede tener más de una reserva en un día.
 
 # Instalación del programa
 ## Requisitos
